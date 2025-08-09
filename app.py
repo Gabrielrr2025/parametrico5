@@ -1,4 +1,3 @@
-python
 # Finhealth — VaR Paramétrico por Classe (sem correlação) + Export Excel com Template + Mapeamento
 import streamlit as st
 import pandas as pd

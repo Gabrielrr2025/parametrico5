@@ -1,0 +1,12 @@
+Sheet,Cell,Field
+Informe Perfil Mensal,A9,CNPJ
+Informe Perfil Mensal,C7,Var21_95_pct
+Informe Perfil Mensal,J7,Var1d_pct
+Informe Perfil Mensal,E7,PiorCenarioIBOV
+Informe Perfil Mensal,F7,PiorCenarioJurosPre
+Informe Perfil Mensal,G7,PiorCenarioCupomCambial
+Informe Perfil Mensal,H7,PiorCenarioDolar
+Informe Perfil Mensal,I7,PiorCenarioOutros
+Informe Perfil Mensal,L7,ImpactoJuros_1pct
+Informe Perfil Mensal,M7,ImpactoDolar_1pct
+Informe Perfil Mensal,N7,ImpactoIbov_1pct
